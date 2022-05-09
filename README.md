@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourbhrajput
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Java Script
+- 🌱 I’m currently learning and  working as a MERN developer 
 - 📫 How to reach me ...Sourbhkharakiya@gmail.com
 
 <!---
