@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourbhrajput
 - 👀 I’m a ...Web Development
-- 🌱 I’m currently learning and  working on Laravel ,MERN ,MEAN
+- 🌱 Currently i am working as a full stack web develper
 - 📫 How to reach me ...Sourbhkharakiya@gmail.com
 
 <!---
